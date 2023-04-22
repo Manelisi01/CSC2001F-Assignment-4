@@ -79,5 +79,8 @@ Dataset for file loading
 The function to load actions from disk must process a file with lines such as the following:
 
 Create hussein The lecturer dude.
+
+
 Add hussein video34.mpg 34 Yet another video of cats
+
 Add hussein video45.mpg 53 Omg more video of cats
